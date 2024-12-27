@@ -1,0 +1,42 @@
+ .card {  
+    width: 50%;  
+    margin: auto;  
+    border-collapse: collapse;  
+    background-color: #fff;   
+}  
+
+thead {  
+    background-color: #2f75d1;  
+}  
+
+.title {  
+    text-align: center;  
+    color: #ffffff;  
+    font-size: 24px;  
+    font-weight: bold;  
+}  
+.logo {  
+    width: 200px;  
+    height: 100px;  
+}  
+.photo {  
+    width: 200px;  
+    height: 200px;  
+}  
+h4 {  
+    color: #a5c3eb;  
+    margin: 10px 0 5px;  
+}  
+p {  
+    margin: 0 0 10px;  
+    color: #333;  
+}  
+.footer td {  
+    height: 5px;  
+}  
+.footer td:first-child {  
+    background-color: #4fa209;  
+}  
+.footer td:last-child {  
+    background-color: #8d918d;  
+}  
